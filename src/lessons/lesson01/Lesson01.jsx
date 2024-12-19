@@ -23,7 +23,7 @@ function Lesson01() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Привет, это React ⚡️</h1>
+      <h1>Это React deploy 🌤️</h1>
 
       <p className="read-the-docs">Этот React проект собран на сборщике Vite 🙌</p>
     </>
